@@ -10,3 +10,6 @@ This project is a senior-level React Native (Expo) application designed to demon
 
 The goal of this project is to simulate how a production mobile application would be structured and maintained at scale.
 
+## Documentation
+
+- [Architecture Overview](docs/architecture.md)
